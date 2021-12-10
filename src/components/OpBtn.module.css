@@ -1,0 +1,13 @@
+.opBtn {
+  border: 0.1px solid black;
+  padding: 0.8% 1%;
+  width: 65px;
+  background: #ffa012;
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.opBtn:active {
+  background: #cc8500;
+}

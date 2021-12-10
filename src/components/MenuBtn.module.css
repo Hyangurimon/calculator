@@ -1,0 +1,13 @@
+.menuBtn {
+  border: 0.1px solid black;
+  padding: 0.8% 1%;
+  width: 65px;
+  background: #525252;
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.menuBtn:active {
+  background: #7a7a7a;
+}
